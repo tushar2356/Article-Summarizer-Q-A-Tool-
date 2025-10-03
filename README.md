@@ -10,7 +10,9 @@ To address this, I built a solution that automatically **summarizes long article
 
 Beyond law and tech-policy, this system can also be applied to **research, data analysis, or equity research**, where users need to extract insights and answers from large volumes of text efficiently.  
 
-![](News Research Tool.png))
+## Screenshot
+
+![News Research Tool](News%20Research%20Tool.png)
 
 ---
 
